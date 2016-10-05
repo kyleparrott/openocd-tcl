@@ -6,20 +6,20 @@
   <package-implementation package="openocd-tcl"/>
   <group>
      <implementation id="sha1=03a43e1bed660690bcdad4f18fa079879df6353b" version="0.0">
-         <archive href="https://raw.githubusercontent.com/kyleparrott/openocd-tcl/master/tcl.zip" size="609744"/>
+         <archive href="https://github.com/kyleparrott/openocd-tcl/raw/master/tcl.zip" size="609744"/>
     </implementation>
   </group>
 </interface>
 <!-- Base64 Signature
-iQIcBAABCgAGBQJX9UwsAAoJEJzS+Pb4kyScEpUP/1PStC4Bj0afSWNGMQStMILkXDlK7vJskQOf
-JSSVPmUtsNGp9hVDylqD3NIqrJi7p+BGH+6aUYUWGsmd9JBnasoFviz8WIN6CsqKzXzb/rsmLduZ
-oBtaKWSL4BVH0e3VaZ6ARNx+6IpKJ/SJFlxrHdhU+cZre9tptThBE/3PpiSEtxVyRTR5m57JnfoT
-PjKHIlkcSGzpLecfWC1p2Y5uU/LyVOmkMjlc7Ywd6Z9LOJAqdb+Sb1KMxRX9I3S835C3Y1SVKzuI
-zWvQhKXJhgpthI2kivwu82fwCu7zF48EIsTxxDvFd3xu+ultcreCkZjxQhH2ycfKcHsKf4qir1Fk
-y6bz/8g9vKalN0AFIwch9c+3+pLIY6vB8FXiiClvMWLk92+stKvMqc9HdMYQMsh0dulmLKhQae19
-FwFAgqYQead4Wo/TkvsPbYK7yeECtFkS+iMAIMqu36rxgFmuppg3Zb5fdmNAGiOZ75OeZIyjSECN
-fu/TQcwQtzQI3x1waNju2fqUeJldVbDgXKNvABVWHJaRJrOlYgerWxMoaQingH9xhMj1dbOn91Nv
-rRqZwOcNOBkMXg4h5OKJasw9PZcHdwAxurGnqxTRAgVpDEyMlySdUFvZdMewqDB2FRD6To/AyvG9
-yrcCIZCHRmT1TDr8O8KBBa6OdDIrx396Q7r1t6D8
+iQIcBAABCgAGBQJX9WfGAAoJEJzS+Pb4kyScPuMP/1ZZC/2eBCb0FfgNfNcnuYvhiD8Ez55iUExf
+5E4Jg5dAvx6niT7Tp8evz/Z1nQg/5aApxo0s90ik9Y8/GVxUbtRuvBA9pxgms/BHbvF2moOLW7yD
+m/LxycRNy5Tluaf8RGRPbPxSFUOs4vB4tIrBTztM06v1OZG7o5P4wBzXA+jtXLiYiaMUXhgVBkkl
+koz25ya9o68vWyBHChUvfx+4qMG9ML+0arun0kLiy/xS+TdcrLVsjaii/qRDQymv25aZhXXYFzI2
+PDW3iWGS+F5p9it+kFzOJsC8NG1Cz49wgKgOzD1xuMLLCUYMsEDJ4jP4bYDLh59uw902nyPpfRAD
+5gZFVUkRd0OknoJCWs8zbTXdMA4LFEhLbQMBgJlQ0UYPddYaWbJMAre3sOOq4kijjyDSMxlyHcMn
+ste23uNoMoG5MRlrrbGS8pPJVwz34R5emExoJimzMWAy7OGTTx5KGomBqX9v2UWAHxBAd+tmm0rQ
+MOcYqj5H/GpsYzUjAXp858vJf3WNg0vZHrur2ncV6OWUxlvmY/0NOBu88eyO6VIDZxe8TXok1DI+
+Uf9rHX6Jt2/i34ciUVKZBJHPmFsXEGJgJyTi4x9CTTYYkq05GgjkpStjnM06sAwHZQOXJoaA3Mrv
+yJ0n1pkyIFG08yBgbXJI7CaZlUbp9yShofH2QI0N
 
 -->
