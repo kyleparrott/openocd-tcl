@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type='text/xsl' href='interface.xsl'?>
+<interface uri="https://raw.githubusercontent.com/kyleparrott/openocd-tcl/master/openocd-tcl.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+  <name>openocd-tcl</name>
+  <summary>Command, Control and Helper scripts for OpenOCD</summary>
+  <package-implementation package="openocd-tcl"/>
+  <group>
+     <implementation id="sha1=03a43e1bed660690bcdad4f18fa079879df6353b" version="0.0">
+         <archive href="https://raw.githubusercontent.com/kyleparrott/openocd-tcl/master/tcl.zip" size="609744"/>
+    </implementation>
+  </group>
+</interface>
+<!-- Base64 Signature
+iQIcBAABCgAGBQJX9UwsAAoJEJzS+Pb4kyScEpUP/1PStC4Bj0afSWNGMQStMILkXDlK7vJskQOf
+JSSVPmUtsNGp9hVDylqD3NIqrJi7p+BGH+6aUYUWGsmd9JBnasoFviz8WIN6CsqKzXzb/rsmLduZ
+oBtaKWSL4BVH0e3VaZ6ARNx+6IpKJ/SJFlxrHdhU+cZre9tptThBE/3PpiSEtxVyRTR5m57JnfoT
+PjKHIlkcSGzpLecfWC1p2Y5uU/LyVOmkMjlc7Ywd6Z9LOJAqdb+Sb1KMxRX9I3S835C3Y1SVKzuI
+zWvQhKXJhgpthI2kivwu82fwCu7zF48EIsTxxDvFd3xu+ultcreCkZjxQhH2ycfKcHsKf4qir1Fk
+y6bz/8g9vKalN0AFIwch9c+3+pLIY6vB8FXiiClvMWLk92+stKvMqc9HdMYQMsh0dulmLKhQae19
+FwFAgqYQead4Wo/TkvsPbYK7yeECtFkS+iMAIMqu36rxgFmuppg3Zb5fdmNAGiOZ75OeZIyjSECN
+fu/TQcwQtzQI3x1waNju2fqUeJldVbDgXKNvABVWHJaRJrOlYgerWxMoaQingH9xhMj1dbOn91Nv
+rRqZwOcNOBkMXg4h5OKJasw9PZcHdwAxurGnqxTRAgVpDEyMlySdUFvZdMewqDB2FRD6To/AyvG9
+yrcCIZCHRmT1TDr8O8KBBa6OdDIrx396Q7r1t6D8
+
+-->
