@@ -5,21 +5,21 @@
   <summary>Command, Control and Helper scripts for OpenOCD</summary>
   <package-implementation package="openocd-tcl"/>
   <group>
-     <implementation id="sha1=03a43e1bed660690bcdad4f18fa079879df6353b" version="0.0">
+     <implementation id="sha1=03a43e1bed660690bcdad4f18fa079879df6353b" version="0.1">
          <archive href="https://github.com/kyleparrott/openocd-tcl/raw/master/tcl.zip" size="609744"/>
     </implementation>
   </group>
 </interface>
 <!-- Base64 Signature
-iQIcBAABCgAGBQJX9WfGAAoJEJzS+Pb4kyScPuMP/1ZZC/2eBCb0FfgNfNcnuYvhiD8Ez55iUExf
-5E4Jg5dAvx6niT7Tp8evz/Z1nQg/5aApxo0s90ik9Y8/GVxUbtRuvBA9pxgms/BHbvF2moOLW7yD
-m/LxycRNy5Tluaf8RGRPbPxSFUOs4vB4tIrBTztM06v1OZG7o5P4wBzXA+jtXLiYiaMUXhgVBkkl
-koz25ya9o68vWyBHChUvfx+4qMG9ML+0arun0kLiy/xS+TdcrLVsjaii/qRDQymv25aZhXXYFzI2
-PDW3iWGS+F5p9it+kFzOJsC8NG1Cz49wgKgOzD1xuMLLCUYMsEDJ4jP4bYDLh59uw902nyPpfRAD
-5gZFVUkRd0OknoJCWs8zbTXdMA4LFEhLbQMBgJlQ0UYPddYaWbJMAre3sOOq4kijjyDSMxlyHcMn
-ste23uNoMoG5MRlrrbGS8pPJVwz34R5emExoJimzMWAy7OGTTx5KGomBqX9v2UWAHxBAd+tmm0rQ
-MOcYqj5H/GpsYzUjAXp858vJf3WNg0vZHrur2ncV6OWUxlvmY/0NOBu88eyO6VIDZxe8TXok1DI+
-Uf9rHX6Jt2/i34ciUVKZBJHPmFsXEGJgJyTi4x9CTTYYkq05GgjkpStjnM06sAwHZQOXJoaA3Mrv
-yJ0n1pkyIFG08yBgbXJI7CaZlUbp9yShofH2QI0N
+iQIcBAABCgAGBQJX9s1NAAoJEJzS+Pb4kyScdWAQAI6fmXQ3y0ORyoK0KF2GMvYyOE94woJbOjh6
+vpffuJqEqMozXyY1Jktp+stoN0FRrZ8/v5AQN48soUZ2OKfJzLpmKo8t6UTPeHON63VJr1lv/bFR
+rueO1gi4GU9wXcPpCyEhzNIAlbPZDzdAkLupwufs4CpKll+F0jsitJmvF/1P22oS7udoLLjlm9b4
+RqxBq49GhbAXLGBaJR5Rqag0ObUnLewNJVeJKHhsMM4zzQjqFL/Xa3D4Mt0tAB/pjdLPzDFRoFx6
+sQ6tJX4XnW471shwum8uPF2gVA1sbQ+GIhyCqXRU3lk4jIO+53YEv2J2S26MY057fYxJSgxZ4fhj
+ysJG3rE7gKOMf4wpOYRFde6RucROjeV5Gd6ia9epQFOFE2J5ZnGohzzRl3Je/cGEJVJe6sXik4kG
+N80WL0vLL9EBWe0wCpBZLNEwwquZdU6X/6oUBjhOeYZ58d1UMP5IOn+VhARU8bGZPk5WCWRDZQt7
+OnY/cWVPTXQdb+KKeRxOSJTGBWqConG4UqFXX42pVlhY/YJLa5lhuVz5ncNQPyr9Xjo4CAZnGmtk
+kZaljPa+iDuLF5lZWXd6xC6ax/liwLH7nzc4Iv1I7/1A4capNO+fTTJitDvlfBaYs2rEstb7dTTd
+Q5aAsoFRf4YQHlh2psf/RgPSVnzt8ovFjQI+nn/R
 
 -->
